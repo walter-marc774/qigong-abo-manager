@@ -1,0 +1,8 @@
+QiGong Abo Manager Version 1.2
+
+1. Alle sieben Webdateien (app.js, index.html, style.css, sw.js, manifest.webmanifest, icon.png, icon-512.png) ins bestehende GitHub-Repository hochladen und ersetzen.
+2. GitHub Pages abwarten, App auf iPhone online starten, anschliessend neu öffnen.
+3. Einstellungen > Alle Testdaten löschen (nur wenn alle Einträge Testdaten sind).
+4. Erst mit Testperson Abos, Teilnahmen und Backup testen.
+
+Daten bleiben lokal auf dem Gerät; Backup regelmässig exportieren.
